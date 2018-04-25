@@ -8,6 +8,21 @@ The idea is to make platform game with the symbol character, who can move around
 Enemies will appear from left and right sides of the game screen. Will be some save blocks with health
 regeneration and weapons upgrade.
 
+
+### Compilation:
+
+To compile and run files use 
+
+```
+qmake *.pro
+```
+then 
+
+```
+make
+```
+Then run the appired file.
+
 ### Steps:
 
 
